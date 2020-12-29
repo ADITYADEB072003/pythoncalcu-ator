@@ -1,0 +1,9 @@
+p=2
+q=4
+r=6
+p+=(q*r/2
+q=p-q*r
+p=p+q-r
+print(p)
+print(q)
+print(p)

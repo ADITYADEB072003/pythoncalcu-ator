@@ -1,0 +1,10 @@
+import math 
+s=float(input("enter the no"))
+sq=math.pow(s,2)
+sr=math.sqrt(s)
+cu=math.pow(s,3)
+cr=math.pow(s,1/3)
+print("square",sq)
+print("square root",sr)
+print("cube",cu)
+print(" cube root",cr)
